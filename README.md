@@ -48,6 +48,7 @@ npm run dev
 npm run build
 ```
 
+```bash
 src/
 ├── components/ # React components
 │ ├── Button.jsx
@@ -60,6 +61,7 @@ src/
 ├── App.jsx # Main app component
 ├── index.css # Global styles
 └── main.jsx # Entry point
+```
 
 This README provides:
 
